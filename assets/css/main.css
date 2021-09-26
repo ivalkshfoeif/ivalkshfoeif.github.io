@@ -2,9 +2,9 @@
 @import url("fontawesome-all.min.css");
 
 /*
-	Miniport by Pixelarity
-	pixelarity.com | hello@pixelarity.com
-	License: pixelarity.com/license
+	Miniport by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
 html, body, div, span, applet, object,
@@ -110,7 +110,8 @@ input, select, textarea {
 		-webkit-transition: color .2s ease-in-out;
 		-ms-transition: color .2s ease-in-out;
 		transition: color .2s ease-in-out;
-		color: #43B3E0;
+		/* color: #43B3E0; */
+		color: black;
 		text-decoration: underline;
 	}
 
@@ -352,7 +353,7 @@ input, select, textarea {
 		}
 
 		.row > .col-4 {
-			width: 33.33333%;
+			width: 33.3333%;
 		}
 
 		.row > .off-4 {
@@ -1788,8 +1789,8 @@ input, select, textarea {
 				-ms-transition: top .2s ease-in-out;
 				transition: top .2s ease-in-out;
 				display: block;
-				width: 48px;
-				height: 48px;
+				width: 60px;
+				height: 60px;
 				border-radius: 6px;
 				top: 0;
 				position: relative;
@@ -1804,19 +1805,19 @@ input, select, textarea {
 					-webkit-transition: background-color .2s ease-in-out;
 					-ms-transition: background-color .2s ease-in-out;
 					transition: background-color .2s ease-in-out;
-					background-color: #444;
+					/* background-color: #444; */
 					border-radius: 6px;
 					box-shadow: inset 0px 0px 0px 1px #282828, inset 0px 2px 1px 0px rgba(255, 255, 255, 0.1);
 					color: #2E2E2E !important;
 					display: block;
-					font-size: 26px;
-					height: 48px;
-					line-height: 48px;
+					font-size: 40px;
+					height: 60px;
+					line-height: 60px;
 					text-align: center;
 					outline: 0;
 					overflow: hidden;
 					text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.1);
-					width: 48px;
+					width: 60px;
 				}
 
 				ul.social li a.fa-twitter {
@@ -1999,12 +2000,12 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #fafafa;
+			background-color:#f4f4f4;
 			text-shadow: 1px 1px 0px #fff;
 		}
 
 		.wrapper.style3 {
-			background-color: #f4f4f4;
+			background-color:  #fafafa;
 			text-shadow: 1px 1px 0px #fff;
 		}
 
@@ -2422,7 +2423,7 @@ input, select, textarea {
 			#contact footer {
 				margin: 0;
 			}
-
+	
 		/* Copyright */
 
 			#copyright {
@@ -2442,4 +2443,28 @@ input, select, textarea {
 						margin-top: 0;
 					}
 
+	}
+
+
+
+	/* ICONS */
+	.icon-list i{
+		font-size: 100px;
+	}
+
+	#contact-email{
+		color: white;
+		text-decoration: none;
+		/* font-size: 2vh; */
+		/* padding: 2vh  0 0 0 ; */
+		font-size: 20px;
+	}
+
+	#contact p{
+		margin: 20px;
+	}
+
+	.location{
+		text-align: center;
+		font-size: 1.25em;
 	}
