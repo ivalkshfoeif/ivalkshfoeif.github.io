@@ -4,23 +4,23 @@
   
   
   <entry>
-    <title>test-article</title>
+    <title>C++ Course Note</title>
     <link href="/2022/12/20/test-article/"/>
     <url>/2022/12/20/test-article/</url>
     
-    <content type="html"><![CDATA[<p>this is a test article</p>]]></content>
+    <content type="html"><![CDATA[<p>Course Link: <a href="https://www.bilibili.com/video/BV12x411D7xr">https://www.bilibili.com/video/BV12x411D7xr</a></p>]]></content>
     
     
     <categories>
       
-      <category>Java</category>
+      <category>C++</category>
       
     </categories>
     
     
     <tags>
       
-      <tag>Original</tag>
+      <tag>Course Note</tag>
       
     </tags>
     
